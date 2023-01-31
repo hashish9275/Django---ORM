@@ -52,7 +52,7 @@ class StudentdetailAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![img](outputss.png)
+![img](outputss.jpg)
 
 
 ## RESULT
